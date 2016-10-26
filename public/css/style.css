@@ -1,0 +1,35 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background: #FE9600;
+}
+
+header {
+	height: 80px;
+	font-family: 'Creepster', cursive;
+	font-size: 8ex;
+}
+
+.form-control {
+	margin: 10px;
+}
+
+.btn-primary {
+	background-color: #77477E;
+	border-color: #77477E;
+}
+
+.monsterItem.selected {
+	background-color: #FFC501;
+}
+
+tbody {
+	cursor: pointer;
+}
+
+h3 {
+	margin-top: 0;
+}
+
+.actionButtonContainer {
+	margin-top: 25px;
+}
