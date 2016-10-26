@@ -1,0 +1,1 @@
+Guest list written in Backbone.Marionette for Front End Orlando meetup talk on 10/26
